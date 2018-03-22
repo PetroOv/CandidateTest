@@ -1,4 +1,4 @@
-# SimpleTests
+
 Requriments:
 JDK 1.8,
 Maven 3,
